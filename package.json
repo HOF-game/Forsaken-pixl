@@ -1,0 +1,16 @@
+{
+    "name": "forsaken-pixl",
+    "version": "1.0.0",
+    "description": "Landing page for Forsaken Pixel Warriors game",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server"
+    },
+    "author": "Unknown",
+    "license": "MIT",
+    "keywords": [],
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
+  
